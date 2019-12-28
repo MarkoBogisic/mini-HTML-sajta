@@ -1,0 +1,55 @@
+body {
+    margin: 0 auto;
+    width: 960px;
+    font-family: Arial, sans-serif;
+    
+}
+
+aside {
+    float: left;
+    width: 300px;
+}
+
+nav {
+    line-height: 25px
+}
+
+section {
+    float: right;
+    width: 660px;
+    font-size: 15px;
+}
+
+#bold {
+    font-weight: bold;
+}
+
+#italic {
+    font-style: italic;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+h2 {
+    font-style: italic;
+}
+
+
+h3 {
+    text-decoration: underline;
+}
+
+hr {
+    margin-bottom: 30px
+}
+
+table, td, th {
+    border: 1px solid grey;
+    border-collapse: collapse;
+    padding: 4px;
+    vertical-align: top;
+}
+
+
